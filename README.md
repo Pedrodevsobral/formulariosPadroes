@@ -1,9 +1,6 @@
 #Formulários padrões. 
 
-- Formulário padrões para uso.
-  Detran-CE.
+- Formulários especificos DETRAN.
 
-:).
-
-
-
+pasta PDF. 
+pasta CRLV DIGITAL.
